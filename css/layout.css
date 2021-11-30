@@ -1,4 +1,18 @@
 /* CSS LAYOUT */
 /* **************************************************************** */
 
+header {
+    background-color: green;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circulo {
+    background-color: red;
+    border-radius: 50%;
+    width: 50px;
+    width: 50px;
+}
 
